@@ -2,7 +2,7 @@
 using namespace std; 
 int main ()
 {
-  int a, b;
+  int a, b; // declare variable 
   cin >> a >> b;
   int sum = (a + b);
   cout << (sum*sum)<< endl;
